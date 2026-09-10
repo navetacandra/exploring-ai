@@ -1,0 +1,1 @@
+Repository berisi perjalanan mempelajari AI
